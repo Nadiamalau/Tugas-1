@@ -1,2 +1,2 @@
-# Tugas-1
-Sains Data Rekayasa
+# Laporan Proyek : prediksi calon pembeli & regresi logistik
+# Domain Proyek
